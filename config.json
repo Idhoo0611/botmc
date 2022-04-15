@@ -1,7 +1,7 @@
 {
-	"ip":"vibratesmp.aternos.me",
-	"port": "21984",
-	"name": "bukanbot",
+	"ip":"vibratemg.aternos.me",
+	"port": "20168",
+	"name": "botbyvanev",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
