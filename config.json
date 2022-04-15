@@ -1,7 +1,7 @@
 {
 	"ip":"vibratemg.aternos.me",
 	"port": "20168",
-	"name": "botbyvanev",
+	"name": "sembarang",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
